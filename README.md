@@ -2,7 +2,7 @@
 
 Link: https://info474-wi22-a1.web.app/
 
-Design Rationale:
+### Design Rationale:
 
 ### The census data I chose to visualize is comprised of age population of male and feamle within the United States. The age population data in the dataset represents the number of population for ages from 0 to 90 on 1900 and 2000 respectively. By looking at the raw data, I naturally got curious about how the population changed over time and if the changes of population for each ages differ from each other. Thereby, I chose to implement a line graph to maximize the visual effect of reduction and elevation of population for each ages. 
 <br> 
