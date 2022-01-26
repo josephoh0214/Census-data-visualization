@@ -4,15 +4,9 @@ Link: https://info474-wi22-a1.web.app/
 
 Design Rationale:
 
-    The census data I chose to visualize is comprised of age population of male and feamle within the 
-United States. The age population data in the dataset represents the number of population for ages 
-from 0 to 90 on 1900 and 2000 respectively. By looking at the raw data, I naturally got curious 
-about how the population changed over time and if the changes of population for each ages differ from
-each other. Thereby, I chose to implement a line graph to maximize the visual effect of reduction and 
-elevation of population for each ages.
-
-    To effectively visualize the dataset, I first divided it up into 4 groups: age population of male
-in 1900, and 2000 and same for the female. After dividing, I have implemented 4 lines on the graph with
+### The census data I chose to visualize is comprised of age population of male and feamle within the United States. The age population data in the dataset represents the number of population for ages from 0 to 90 on 1900 and 2000 respectively. By looking at the raw data, I naturally got curious about how the population changed over time and if the changes of population for each ages differ from each other. Thereby, I chose to implement a line graph to maximize the visual effect of reduction and elevation of population for each ages. 
+<br> 
+To effectively visualize the dataset, I first divided it up into 4 groups: age population of male in 1900, and 2000 and same for the female. After dividing, I have implemented 4 lines on the graph with
 y-axis being the population in millions and x-axis being the ages from 0 to 90 in 5 year intervals to
 represent each group. To simplify the numbers, I normalized the numbers to represent millions. In other 
 words, the numbers in y-axis is scaled to millions. The colors of the graphs are purposefully chosen to 
