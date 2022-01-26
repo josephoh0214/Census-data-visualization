@@ -2,6 +2,8 @@
 
 Link: https://info474-wi22-a1.web.app/
 
+Design Rationale:
+
     The census data I chose to visualize is comprised of age population of male and feamle within the 
 United States. The age population data in the dataset represents the number of population for ages 
 from 0 to 90 on 1900 and 2000 respectively. By looking at the raw data, I naturally got curious 
