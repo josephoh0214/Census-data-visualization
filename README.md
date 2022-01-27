@@ -1,4 +1,5 @@
 # U.S. Census Data - Age Population in 1900 and 2000
+#### Joseph Oh (ohjb3089@uw.edu)
 
 **Link: https://info474-wi22-a1.web.app/**
 
